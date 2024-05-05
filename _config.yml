@@ -1,5 +1,5 @@
 title: Maria Maragkelli # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
 
   <a href="https://www.linkedin.com/in/mariamaragkelli/">LinkedIn</a> 
@@ -9,6 +9,5 @@ description: > # your text below (remove <br> elements if you don't need line br
 # <a href="https://bowen.finance/" class="btn btn--info">Portfolio</a>  
 #  <br>
   <a href="https://www.GitHub.com/MariaMaragkelli/">GitHub</a>  
-  <br>
   
 theme: jekyll-theme-minimal
