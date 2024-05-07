@@ -1,7 +1,5 @@
 ## About Me
 
-Hey! 
-
 I am a graduating Mechanical Engineering and Finance student at Lehigh University, with an innate curiosity for all things engineering, a love for problem-solving and a passion for a good challenge!
 
 <!-- Upload your own photo and change the path -->
