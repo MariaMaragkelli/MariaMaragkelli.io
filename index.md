@@ -36,6 +36,8 @@ _**[Eventual team project](https://donbowen.github.io/teamproject/)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+Link fof final project can be found <a href="https://older-smarter-richer.streamlit.app/">here</a>  .  
+
 ---
 
 _**[Some personal project](/pdf/sample_presentation.pdf)**_
