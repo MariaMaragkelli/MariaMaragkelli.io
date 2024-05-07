@@ -24,23 +24,11 @@ Midterm report on the effects of 10-K sentiment on the comapny's stock price.
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
-
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
 _**[Final Team Project](https://older-smarter-richer.streamlit.app/)**_
 
+Final project on determining the right investment portfolio for retirement, based on the customer's preferences.
+
 <img src="/images/final.png?raw=true"/>
-
----
-
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
