@@ -32,7 +32,7 @@ Final project on determining the right investment portfolio for retirement, base
 
 ## Career Objectives
 
-A passionate, determined, and high-achieving graduating engineer with experience in fast-paced, start-up environments and detail-oriented roles, looking to be part of an innovative, ambitious project that will change the world.
+I am a passionate, determined, and high-achieving graduating engineer with experience in fast-paced, start-up environments and detail-oriented roles, looking to be part of an innovative, ambitious project that will change the world.
 
 ---
 
