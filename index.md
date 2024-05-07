@@ -1,8 +1,8 @@
 ## About Me
 
-What's up? hey\|you
+Hey! 
 
-I am an awesome student at Lehigh, you should hire me!
+I am a graduating Mechanical Engineering and Finance student at Lehigh University, with an innate curiosity for all things engineering, a love for problem-solving and a passion for a good challenge!
 
 <!-- Upload your own photo and change the path -->
 
@@ -46,15 +46,14 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+A passionate, determined, and high-achieving graduating engineer with experience in fast-paced, start-up environments and detail-oriented roles, looking to be part of an innovative, ambitious project that will change the world.
 
 ---
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+Formula SAE: Heavily involved since 2019, Captain of the team during 2022-2023! 
+I enjoy designing things, I love building them, but what I trully enjoy is troubleshooting them and root-causing issues. 
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
