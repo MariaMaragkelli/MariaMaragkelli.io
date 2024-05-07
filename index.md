@@ -32,11 +32,11 @@ Or: The process that created this page can be used to show off your whole midter
 
 ---
 
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
+_**[Final Team Project](https://older-smarter-richer.streamlit.app/)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="/images/final.png?raw=true"/>
 
-Link fof final project can be found <a href="https://older-smarter-richer.streamlit.app/">here</a>  .  
+Link for the final project can be found <a href="https://older-smarter-richer.streamlit.app/">here</a>  .  
 
 ---
 
