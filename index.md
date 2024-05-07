@@ -16,11 +16,11 @@ I am a graduating Mechanical Engineering and Finance student at Lehigh Universit
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
+_**[Natural language processing 10-Ks to identify risks](https://github.com/LeDataSciFi/asgn-05-MariaMaragkelli/tree/main)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
+Midterm report on the effects of 10-K sentiment on the comapny's stock price.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/midterm.png?raw=true"/>
 
 ---
 
@@ -35,8 +35,6 @@ Or: The process that created this page can be used to show off your whole midter
 _**[Final Team Project](https://older-smarter-richer.streamlit.app/)**_
 
 <img src="/images/final.png?raw=true"/>
-
-Link for the final project can be found <a href="https://older-smarter-richer.streamlit.app/">here</a>  .  
 
 ---
 
