@@ -26,7 +26,7 @@ _**[Final Team Project](https://older-smarter-richer.streamlit.app/)**_
 
 Final project on determining the right investment portfolio for retirement, based on the customer's preferences.
 
-<img src="/images/final.png?raw=true"/>
+<img src="images/final.png?raw=true"/>
 
 ---
 
